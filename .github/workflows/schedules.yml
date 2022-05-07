@@ -2,7 +2,7 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 48 * * * *
+  - cron: 50 * * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
