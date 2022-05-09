@@ -1,9 +1,8 @@
-name: 'Update by stargazed'
-# This workflow runs at 00:30 everyday
+name: update awesome-stars
 on:
+  workflow_dispatch:
   schedule:
-    -
-      cron: '30 18 * * *'
+  - cron: 30 0 * * *
 jobs:
   build:
     name: 'stargazed update'
