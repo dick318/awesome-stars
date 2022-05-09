@@ -20,7 +20,7 @@ on:
         type: environment
         required: true 
   schedule:
-  - cron: 30 0 * * *
+  - cron: 30 2 * * *
 jobs:
   awesome-stars:
     name: update awesome-stars
