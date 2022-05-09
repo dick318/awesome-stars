@@ -1,41 +1,27 @@
-name: update awesome-stars
+name: 'Update by stargazed'
+# This workflow runs at 00:30 everyday
 on:
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: true
-        default: 'warning' 
-        type: choice
-        options:
-        - info
-        - warning
-        - debug 
-      tags:
-        description: 'Test scenario tags'
-        required: false 
-        type: boolean
-      environment:
-        description: 'Environment to run tests against'
-        type: environment
-        required: true 
   schedule:
-  - cron: 30 2 * * *
+    -
+      cron: '30 18 * * *'
 jobs:
-  awesome-stars:
-    name: update awesome-stars
+  build:
+    name: 'stargazed update'
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - name: Set up Python
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.7
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install starred
-    - name: update repo
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: starred --username dick318 --repository awesome-stars --sort --token ${GITHUB_TOKEN} --message 'stars update by github actions cron'
+      -
+        name: 'Use GitHub Actions'
+        uses: actions/checkout@v2
+      -
+        name: 'Use Node.js 12.x'
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      -
+        name: 'Install Package'
+        run: 'npm install --global stargazed'
+      -
+        name: 'Update Repo'
+        env:
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+        run: 'stargazed --username  "dick318" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
