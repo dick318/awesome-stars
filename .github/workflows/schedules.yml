@@ -1,3 +1,6 @@
+# https://github.com/abhijithvijayan/awesome-stars
+# https://github.com/maguowei/awesome-stars
+
 name: update awesome-stars
 on:
   workflow_dispatch:
