@@ -5,8 +5,7 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  #- cron: 30 18 * * *
-  - cron: */5 * * * *
+  - cron: 00 * * * *
 jobs:
   build:
     name: 'stargazed update'
