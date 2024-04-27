@@ -63,7 +63,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Keeper](https://github.com/Weidows-projects/Keeper) | ✅ 刷绿格子GitHub+Gitee \| 唤醒服务器 \| 爬取必应图片 \| 镜像GitHub-&amp;gt;Gitee \| 本地管理体系...etc | Weidows-projects | 13 |
-| 2 |  [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. | massgravel | 72700 |
+| 2 |  [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) | A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. | massgravel | 72705 |
 | 3 |  [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | An open-source Chinese font derived from Fontworks&#39; Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。 | lxgw | 16126 |
 | 4 |  [BlockWin10AU](https://github.com/f1tz/BlockWin10AU) | 禁止Windows10系统自动更新 | f1tz | 304 |
 | 5 |  [apache-hadoop-3.1.0-winutils](https://github.com/s911415/apache-hadoop-3.1.0-winutils) | HADOOP 3.1.0 winutils | s911415 | 71 |
@@ -81,7 +81,7 @@
 ## C
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 | lizongying | 25323 |
+| 1 |  [my-tv](https://github.com/lizongying/my-tv) | 我的电视 电视直播软件，安装即可使用 | lizongying | 25325 |
 | 2 |  [openwrt-redmi-ax3000](https://github.com/hzyitc/openwrt-redmi-ax3000) | Openwrt for Redmi AX3000 / Xiaomi CR8806 / Xiaomi CR8808 / Xiaomi CR8809 | hzyitc | 330 |
 | 3 |  [headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) | Set, add, and clear arbitrary output headers in NGINX http servers | openresty | 1595 |
 | 4 |  [WizQTClient](https://github.com/WizTeam/WizQTClient) | 为知笔记跨平台客户端 | WizTeam | 2610 |
@@ -137,7 +137,7 @@
 ## C++
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 44193 |
+| 1 |  [Magisk](https://github.com/topjohnwu/Magisk) | The Magic Mask for Android | topjohnwu | 44194 |
 | 2 |  [LxRunOffline](https://github.com/DDoSolitary/LxRunOffline) | A full-featured utility for managing Windows Subsystem for Linux (WSL) | DDoSolitary | 4010 |
 | 3 |  [pywin32](https://github.com/mhammond/pywin32) | Python for Windows (pywin32) Extensions | mhammond | 4810 |
 | 4 |  [ceph](https://github.com/ceph/ceph) | Ceph is a distributed object, block, and file storage platform | ceph | 13237 |
@@ -152,12 +152,12 @@
 | 13 |  [chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) | 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M | DayBreak-u | 11483 |
 | 14 |  [wondertrader](https://github.com/wondertrader/wondertrader) | WonderTrader——量化研发交易一站式框架 | wondertrader | 3414 |
 | 15 |  [FreeReflection](https://github.com/tiann/FreeReflection) | A library that lets you use reflection without any restriction above Android P | tiann | 2841 |
-| 16 |  [LIII](https://github.com/aliakseis/LIII) | multi-platform bittorrent client | aliakseis | 732 |
+| 16 |  [LIII](https://github.com/aliakseis/LIII) | multi-platform bittorrent client | aliakseis | 731 |
 | 17 |  [lac](https://github.com/baidu/lac) | 百度NLP：分词，词性标注，命名实体识别，词重要性 | baidu | 3759 |
 | 18 |  [xuefu](https://github.com/francinexue/xuefu) | my first test | francinexue | 262 |
 | 19 |  [starquant](https://github.com/physercoe/starquant) | a light-weighted, integrated trading/backtesting system/platform（综合量化交易回测系统/平台） | physercoe | 521 |
 | 20 |  [tesseract](https://github.com/tesseract-ocr/tesseract) | Tesseract Open Source OCR Engine (main repository) | tesseract-ocr | 58078 |
-| 21 |  [naiveproxy](https://github.com/klzgrad/naiveproxy) | Make a fortune quietly | klzgrad | 6233 |
+| 21 |  [naiveproxy](https://github.com/klzgrad/naiveproxy) | Make a fortune quietly | klzgrad | 6234 |
 | 22 |  [Qv2ray](https://github.com/Qv2ray/Qv2ray) | :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 \| 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 \| 使用 C++ / Qt 开发 \| 可拓展插件式设计 :star: | Qv2ray | 16377 |
 | 23 |  [kungfu](https://github.com/kungfu-origin/kungfu) | Kungfu Trader | kungfu-origin | 3235 |
 | 24 |  [clipper](https://github.com/ucbrise/clipper) | A low-latency prediction-serving system | ucbrise | 1385 |
@@ -211,7 +211,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [bga_issue_blog](https://github.com/bingoogolapple/bga_issue_blog) | Flutter 或 Vue 全家桶（Vue + VueRouter + Vuex + Axios）抓取 GitHub 上的 Issues，结合 GitHub Pages 搭建个人博客站点，支持 GitHub 登录和评论 | bingoogolapple | 270 |
 | 2 |  [flutter_mp](https://github.com/areslabs/flutter_mp) | Bring your Flutter code to mini program | areslabs | 742 |
-| 3 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 161833 |
+| 3 |  [flutter](https://github.com/flutter/flutter) | Flutter makes it easy and fast to build beautiful apps for mobile and beyond | flutter | 161834 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -253,14 +253,14 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) | Convert Github Copilot to ChatGPT | aaamoon | 9157 |
-| 2 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 44148 |
-| 3 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | go-gitea | 41964 |
+| 2 |  [gogs](https://github.com/gogs/gogs) | Gogs is a painless self-hosted Git service | gogs | 44150 |
+| 3 |  [gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | go-gitea | 41966 |
 | 4 |  [Bifrost](https://github.com/brokercap/Bifrost) | Bifrost ---- 面向生产环境的 MySQL,MariaDB,kafka 同步到Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka等服务的异构中间件 | brokercap | 1859 |
-| 5 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | rclone | 43845 |
+| 5 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | rclone | 43846 |
 | 6 |  [Air-Universe](https://github.com/crossfw/Air-Universe) | 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel. | crossfw | 647 |
 | 7 |  [iot-master](https://github.com/zgwit/iot-master) | 物联大师是开源免费的物联网云平台，集成了标准Modbus、电力、水文和主流PLC等多种协议，支持数据采集、公式计算、异常报警、Web组态等功能，适用于大部分物联网和工业互联网应用场景。 | zgwit | 588 |
 | 8 |  [crawlab](https://github.com/crawlab-team/crawlab) | Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架 | crawlab-team | 10800 |
-| 9 |  [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | IceWhaleTech | 22128 |
+| 9 |  [CasaOS](https://github.com/IceWhaleTech/CasaOS) | CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. | IceWhaleTech | 22131 |
 | 10 |  [bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) | 蓝鲸智云配置平台(BlueKing CMDB) | TencentBlueKing | 5310 |
 | 11 |  [nightingale](https://github.com/ccfos/nightingale) | An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI. | ccfos | 8814 |
 | 12 |  [httprunner](https://github.com/httprunner/httprunner) | HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。 | httprunner | 3981 |
@@ -271,7 +271,7 @@
 | 17 |  [pure-live-core](https://github.com/iyear/pure-live-core) | ✨ Make Live Pure Again | iyear | 1162 |
 | 18 |  [KubePi](https://github.com/1Panel-dev/KubePi) | KubePi 是一个现代化的 K8s 面板，1Panel 官方出品。 | 1Panel-dev | 2468 |
 | 19 |  [erda](https://github.com/erda-project/erda) | An enterprise-grade Cloud-Native application platform for Kubernetes. | erda-project | 2660 |
-| 20 |  [dtm](https://github.com/dtm-labs/dtm) | A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. | dtm-labs | 9733 |
+| 20 |  [dtm](https://github.com/dtm-labs/dtm) | A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. | dtm-labs | 9734 |
 | 21 |  [goim](https://github.com/Terry-Mao/goim) | goim | Terry-Mao | 7066 |
 | 22 |  [wecomchan](https://github.com/easychen/wecomchan) | 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。 | easychen | 1273 |
 | 23 |  [TopList](https://github.com/tophubs/TopList) | 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish | tophubs | 4662 |
@@ -287,7 +287,7 @@
 | 33 |  [v2rss-go](https://github.com/sunyuting83/v2rss-go) | v2rss-go | sunyuting83 | 195 |
 | 34 |  [serverchan-action](https://github.com/yakumioto/serverchan-action) | Use serverchan in github action. | yakumioto | 24 |
 | 35 |  [go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) | Modern Shadowsocks in Go | shadowsocks | 4406 |
-| 36 |  [watchtower](https://github.com/containrrr/watchtower) | A process for automating Docker container base image updates. | containrrr | 16871 |
+| 36 |  [watchtower](https://github.com/containrrr/watchtower) | A process for automating Docker container base image updates. | containrrr | 16872 |
 | 37 |  [v2ray-core](https://github.com/v2fly/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2fly | 27618 |
 | 38 |  [minio](https://github.com/minio/minio) | The Object Store for AI Data Infrastructure | minio | 44253 |
 | 39 |  [kudo](https://github.com/kudobuilder/kudo) | Kubernetes Universal Declarative Operator (KUDO) | kudobuilder | 1165 |
@@ -299,7 +299,7 @@
 | 45 |  [naftis](https://github.com/XiaoMi/naftis) | An awesome dashboard for Istio built with love. | XiaoMi | 1896 |
 | 46 |  [fabric-samples](https://github.com/hyperledger/fabric-samples) | Samples for Hyperledger Fabric | hyperledger | 2713 |
 | 47 |  [fabric](https://github.com/hyperledger/fabric) | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. | hyperledger | 15383 |
-| 48 |  [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | k3s-io | 26466 |
+| 48 |  [k3s](https://github.com/k3s-io/k3s) | Lightweight Kubernetes | k3s-io | 26467 |
 | 49 |  [nexus-cli](https://github.com/mlabouardy/nexus-cli) | Nexus CLI for Docker Registry v2 🐳 | mlabouardy | 280 |
 | 50 |  [harbor](https://github.com/goharbor/harbor) | An open source trusted cloud native registry project that stores, signs, and scans content. | goharbor | 22504 |
 | 51 |  [rancher](https://github.com/rancher/rancher) | Complete container management platform | rancher | 22543 |
@@ -312,7 +312,7 @@
 | 58 |  [contrib](https://github.com/kubernetes-retired/contrib) | [EOL] This is a place for various components in the Kubernetes ecosystem that aren&#39;t part of the Kubernetes core. | kubernetes-retired | 2461 |
 | 59 |  [gcr.io_mirror](https://github.com/anjia0532/gcr.io_mirror) | all of the gcr.io docker image mirror | anjia0532 | 1307 |
 | 60 |  [casskop](https://github.com/Orange-OpenSource/casskop) | This Kubernetes operator automates the Cassandra operations such as deploying a new rack aware cluster, adding/removing nodes, configuring the C* and JVM parameters, upgrading JVM and C* versions, and many more... | Orange-OpenSource | 185 |
-| 61 |  [pan-light](https://github.com/peterq/pan-light) | 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 | peterq | 12055 |
+| 61 |  [pan-light](https://github.com/peterq/pan-light) | 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 | peterq | 12054 |
 | 62 |  [GoQuiet](https://github.com/cbeuw/GoQuiet) | A Shadowsocks obfuscation plugin utilising domain fronting to evade deep packet inspection | cbeuw | 812 |
 | 63 |  [FinancialDataCrawlingPlatform](https://github.com/unrealinux/FinancialDataCrawlingPlatform) | 基于Pholcus网路爬虫框架的金融数据爬取平台 | unrealinux | 8 |
 | 64 |  [aster](https://github.com/andeya/aster) | Easily get the golang syntax tree and modify the code. | andeya | 151 |
@@ -321,7 +321,7 @@
 | 67 |  [gocrawl](https://github.com/PuerkitoBio/gocrawl) | Polite, slim and concurrent web crawler. | PuerkitoBio | 2025 |
 | 68 |  [colly](https://github.com/gocolly/colly) | Elegant Scraper and Crawler Framework for Golang | gocolly | 22175 |
 | 69 |  [pholcus](https://github.com/andeya/pholcus) | Pholcus is a distributed high-concurrency crawler software written in pure golang | andeya | 7530 |
-| 70 |  [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | fatedier | 79788 |
+| 70 |  [frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | fatedier | 79789 |
 | 71 |  [v2ray-core](https://github.com/v2ray/v2ray-core) | A platform for building proxies to bypass network restrictions. | v2ray | 44723 |
 | 72 |  [tidb](https://github.com/pingcap/tidb) | TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial | pingcap | 36137 |
 | 73 |  [firefly-proxy](https://github.com/yinghuocho/firefly-proxy) | A proxy software to help circumventing the Great Firewall. | yinghuocho | 4888 |
@@ -384,7 +384,7 @@
 | 1 |  [TrustMeAlready](https://github.com/ViRb3/TrustMeAlready) | 🔓 Disable SSL verification and pinning on Android, system-wide | ViRb3 | 1171 |
 | 2 |  [seatunnel-web](https://github.com/apache/seatunnel-web) | SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time). | apache | 425 |
 | 3 |  [dataease](https://github.com/dataease/dataease) | 人人可用的开源数据可视化分析工具。 | dataease | 15204 |
-| 4 |  [JimuReport](https://github.com/jeecgboot/JimuReport) | 🔥「数据可视化报表工具」类似excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。 | jeecgboot | 5624 |
+| 4 |  [JimuReport](https://github.com/jeecgboot/JimuReport) | 🔥「数据可视化报表工具」类似excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。 | jeecgboot | 5623 |
 | 5 |  [Taier](https://github.com/DTStack/Taier) | Taier is a big data development platform for submission, scheduling, operation and maintenance, and indicator information display | DTStack | 1275 |
 | 6 |  [de-ag](https://github.com/chisaato/de-ag) | 用来对dbeaver做羞羞的事情 | chisaato | 285 |
 | 7 |  [Jailer](https://github.com/Wisser/Jailer) | Database Subsetting and Relational Data Browsing Tool. | Wisser | 2704 |
@@ -465,7 +465,7 @@
 | 82 |  [flink-cdc](https://github.com/apache/flink-cdc) | Flink CDC is a streaming data integration tool | apache | 5251 |
 | 83 |  [hera](https://github.com/scxwhite/hera) | hera 分布式任务调度系统 大数据任务调度系统 任务调度 （数据部门专用） | scxwhite | 338 |
 | 84 |  [toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) | To Be Top Javaer - Java工程师成神之路 | hollischuang | 25161 |
-| 85 |  [Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | iBotPeaches | 18890 |
+| 85 |  [Apktool](https://github.com/iBotPeaches/Apktool) | A tool for reverse engineering Android apk files | iBotPeaches | 18891 |
 | 86 |  [metacat](https://github.com/Netflix/metacat) |  | Netflix | 1571 |
 | 87 |  [DataCleaner](https://github.com/datacleaner/DataCleaner) | The premier open source Data Quality solution | datacleaner | 569 |
 | 88 |  [marquez](https://github.com/MarquezProject/marquez) | Collect, aggregate, and visualize a data ecosystem&#39;s metadata | MarquezProject | 1617 |
@@ -531,7 +531,7 @@
 | 148 |  [h2oclient-java](https://github.com/cranella/h2oclient-java) | Java REST API client for the H2O machine learning platform | cranella | 5 |
 | 149 |  [flink-userportrait-main](https://github.com/gingerredjade/flink-userportrait-main) | 基于Flink流处理的动态实时亿级全端用户画像系统 | gingerredjade | 460 |
 | 150 |  [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | A Java 8+ Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More) | Konloch | 14341 |
-| 151 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 39149 |
+| 151 |  [jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | skylot | 39150 |
 | 152 |  [myproject_bbd](https://github.com/ligaoyong/myproject_bbd) |  | ligaoyong | 1 |
 | 153 |  [submarine](https://github.com/apache/submarine) | Submarine is Cloud Native Machine Learning Platform. | apache | 688 |
 | 154 |  [fione](https://github.com/codelibs/fione) | Fione is Enterprise AI Platform | codelibs | 14 |
@@ -586,7 +586,7 @@
 | 203 |  [sofa-boot](https://github.com/sofastack/sofa-boot) | SOFABoot is a framework that enhances Spring Boot and fully compatible with it, provides readiness check, class isolation, etc. | sofastack | 4881 |
 | 204 |  [xtp_api_java](https://github.com/ztsec/xtp_api_java) | 中泰证券xtp java api for win\linux\mac | ztsec | 88 |
 | 205 |  [ghostdriver](https://github.com/detro/ghostdriver) | Ghost Driver is an implementation of the Remote WebDriver Wire protocol, using PhantomJS as back-end | detro | 1917 |
-| 206 |  [VirtualXposed](https://github.com/android-hacker/VirtualXposed) | A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. | android-hacker | 15049 |
+| 206 |  [VirtualXposed](https://github.com/android-hacker/VirtualXposed) | A simple app to use Xposed without root, unlock the bootloader or modify system image, etc. | android-hacker | 15050 |
 | 207 |  [Alink](https://github.com/alibaba/Alink) | Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. | alibaba | 3494 |
 | 208 |  [flink-learning](https://github.com/zhisheng17/flink-learning) | flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API &amp; SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》 | zhisheng17 | 14259 |
 | 209 |  [dubbo-admin](https://github.com/apache/dubbo-admin) | The ops and reference implementation for Apache Dubbo | apache | 3966 |
@@ -598,7 +598,7 @@
 | 215 |  [MqttWk](https://github.com/Wizzercn/MqttWk) | Java + Netty 实现的高并发高可用MQTT服务broker，轻松支持10万并发(有群友实现了130万在线) | Wizzercn | 597 |
 | 216 |  [jmqtt](https://github.com/Cicizz/jmqtt) | A MQTT broker,implemented by java and netty,support persistence and cluster | Cicizz | 503 |
 | 217 |  [ksql-udf-deep-learning-mqtt-iot](https://github.com/kaiwaehner/ksql-udf-deep-learning-mqtt-iot) | Deep Learning UDF for KSQL for Streaming Anomaly Detection of MQTT IoT Sensor Data | kaiwaehner | 284 |
-| 218 |  [ksql](https://github.com/confluentinc/ksql) | The database purpose-built for stream processing applications. | confluentinc | 5818 |
+| 218 |  [ksql](https://github.com/confluentinc/ksql) | The database purpose-built for stream processing applications. | confluentinc | 5819 |
 | 219 |  [thingsboard-gateway](https://github.com/guodaxia103/thingsboard-gateway) | Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using OPC-UA and MQTT protocols | guodaxia103 | 38 |
 | 220 |  [rulegin](https://github.com/JaryZhen/rulegin) | 基于JavaScript Engine的轻量级规则引擎系统，重构于开源IOT项目thingboard | JaryZhen | 107 |
 | 221 |  [reactor-netty](https://github.com/reactor/reactor-netty) | TCP/HTTP/UDP/QUIC client/server with Reactor over Netty | reactor | 2504 |
@@ -623,7 +623,7 @@
 | 240 |  [apollo](https://github.com/apolloconfig/apollo) | Apollo is a reliable configuration management system suitable for microservice configuration management scenarios. | apolloconfig | 28794 |
 | 241 |  [arthas](https://github.com/alibaba/arthas) | Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas | alibaba | 34689 |
 | 242 |  [SpringCloud](https://github.com/zhoutaoo/SpringCloud) | 基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中 | zhoutaoo | 8527 |
-| 243 |  [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | alibaba | 27286 |
+| 243 |  [spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) | Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. | alibaba | 27287 |
 | 244 |  [gpmall](https://github.com/2227324689/gpmall) | 【咕泡学院实战项目】-基于SpringBoot+Dubbo构建的电商平台-微服务架构、商城、电商、微服务、高并发、kafka、Elasticsearch | 2227324689 | 4793 |
 | 245 |  [RuoYi](https://github.com/lerry903/RuoYi) | 基于SpringBoot2.1的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用 | lerry903 | 1203 |
 | 246 |  [mall-learning](https://github.com/macrozheng/mall-learning) | mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、Mysql等技术，采用Docker容器化部署。 | macrozheng | 12725 |
@@ -631,7 +631,7 @@
 | 248 |  [paascloud-master](https://github.com/paascloud/paascloud-master) | spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。 | paascloud | 9783 |
 | 249 |  [litemall](https://github.com/linlinjava/litemall) | 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 | linlinjava | 18884 |
 | 250 |  [Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView) | 即使不用饿了么订餐，也请务必收藏好该库！🔥  一行代码即可接入，二级联动订餐列表。 | KunMinX | 3623 |
-| 251 |  [hutool](https://github.com/dromara/hutool) | 🍬A set of tools that keep Java sweet. | dromara | 28376 |
+| 251 |  [hutool](https://github.com/dromara/hutool) | 🍬A set of tools that keep Java sweet. | dromara | 28377 |
 | 252 |  [halo](https://github.com/halo-dev/halo) | 强大易用的开源建站工具。 | halo-dev | 31584 |
 | 253 |  [jeecg-boot](https://github.com/jeecgboot/jeecg-boot) | 🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&amp;Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding-&amp;gt;代码生成-&amp;gt;手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。 | jeecgboot | 37801 |
 | 254 |  [im-server](https://github.com/wildfirechat/im-server) | 即时通讯(IM)系统 | wildfirechat | 7675 |
@@ -689,7 +689,7 @@
 | 7 |  [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) | 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. | qishibo | 29025 |
 | 8 |  [jsdom](https://github.com/jsdom/jsdom) | A JavaScript implementation of various web standards, for use with Node.js | jsdom | 19961 |
 | 9 |  [pywencai](https://github.com/zsrl/pywencai) | 获取同花顺问财数据 | zsrl | 288 |
-| 10 |  [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | Significant-Gravitas | 161389 |
+| 10 |  [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. | Significant-Gravitas | 161393 |
 | 11 |  [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。 | xcanwin | 13604 |
 | 12 |  [hello-muiplayer](https://github.com/muiplayer/hello-muiplayer) | 💡 An excellent HTML5 video player component | muiplayer | 492 |
 | 13 |  [auto_xuexiqiangguo](https://github.com/dundunnp/auto_xuexiqiangguo) | 学习强国 每日拿满61分！免root 四人赛双人对战秒答 自动化脚本 | dundunnp | 2616 |
@@ -705,7 +705,7 @@
 | 23 |  [Memocast](https://github.com/TankNee/Memocast) | Yet another elegant Wiz Note Client, which was built with Quasar UI Framework and based on Electron. | TankNee | 358 |
 | 24 |  [sillygirl-plugin](https://github.com/yao177/sillygirl-plugin) | 自用傻妞插件 | yao177 | 22 |
 | 25 |  [drpy](https://github.com/liu673cn/drpy) | 欢迎使用DR-PY首页界面　　　　　　　当前版本: 3.7.14　　　　　　　　　　　框架开发：道长　　　　　　　　　　　框架美化：蓝莓　　　　　　　　　　　可以简单的自定义爬虫实现cms数据接口 | liu673cn | 68 |
-| 26 |  [OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt | vernesong | 14929 |
+| 26 |  [OpenClash](https://github.com/vernesong/OpenClash) | A Clash Client For OpenWrt | vernesong | 14930 |
 | 27 |  [diving](https://github.com/vicanso/diving) | Exploring each layer in a docker image | vicanso | 257 |
 | 28 |  [Crack-JS](https://github.com/xianyucoder/Crack-JS) | 🕷🎯Python3爬虫项目进阶实战、JS加解密、逆向教程、css 加密、字体加密 - 犀牛数据 \| 美团美食 \| 企名片 \| 七麦数据 \| 淘大象 \| 梦幻西游藏宝阁 \| 国家企业信用信息公示系统 \| 漫画柜 \| 财联社 \| 中国空气质量在线监测分析平台 \| 66ip代理 \| 零度ip \| 中国产品大目录 \| JSFuck \| 咪咕视频 \| 房天下 \| 新浪微博 \| 新浪二手房 \| 极贷助手 \| 裁判文书网 \| 空中网 \| 粉笔网 \| 叮当快药 \| 58同城 \| wallhere \|  豆瓣读书 \| google 镜像站 \| openlaw \| X里文学 \| 刺猬猫小说 \| | xianyucoder | 1271 |
 | 29 |  [updates](https://github.com/pluto-player/updates) |  | pluto-player | 140 |
@@ -715,7 +715,7 @@
 | 33 |  [FFCreator](https://github.com/tnfe/FFCreator) | 一个基于node.js的高速视频制作库  A fast video processing library based on node.js | tnfe | 2684 |
 | 34 |  [Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) | 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。 | modood | 17711 |
 | 35 |  [ChineseBQB](https://github.com/zhaoolee/ChineseBQB) | 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ | zhaoolee | 11830 |
-| 36 |  [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 19678 |
+| 36 |  [nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) | Docker container for managing Nginx proxy hosts with a simple, powerful interface | NginxProxyManager | 19679 |
 | 37 |  [WantWords](https://github.com/thunlp/WantWords) | An open-source online reverse dictionary. | thunlp | 6951 |
 | 38 |  [mosca](https://github.com/moscajs/mosca) | MQTT broker as a module | moscajs | 3200 |
 | 39 |  [BigDataODS](https://github.com/Zaratrustra0/BigDataODS) | articles grabbed from wechat or somewhere else. | Zaratrustra0 | 7 |
@@ -734,11 +734,11 @@
 | 52 |  [ace-diff](https://github.com/ace-diff/ace-diff) | A diff/merging wrapper for Ace Editor built on google-diff-match-patch | ace-diff | 329 |
 | 53 |  [elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) | Import and export tools for elasticsearch &amp; opensearch | elasticsearch-dump | 7319 |
 | 54 |  [sjcl](https://github.com/bitwiseshiftleft/sjcl) | Stanford Javascript Crypto Library | bitwiseshiftleft | 7157 |
-| 55 |  [brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | brave | 16657 |
+| 55 |  [brave-browser](https://github.com/brave/brave-browser) | Brave browser for Android, iOS, Linux, macOS, Windows. | brave | 16659 |
 | 56 |  [tiktok-signature](https://github.com/carcabot/tiktok-signature) | Generate tiktok signature token using node | carcabot | 682 |
 | 57 |  [ass](https://github.com/Jeff-Tian/ass) | 在线视频字幕文件（ASS）编辑器  Online video subtitle (ASS) editor | Jeff-Tian | 46 |
 | 58 |  [imgs2video-up-douyin](https://github.com/arleyGuoLei/imgs2video-up-douyin) | JS实现图片根据自定义模板自动生成抖音热门视频 🔥 | arleyGuoLei | 47 |
-| 59 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 78157 |
+| 59 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 78156 |
 | 60 |  [gm-crypt](https://github.com/pecliu/gm-crypt) | 国密算法JS实现。Implement of Chinese encrypt algorithm in JavaScript. | pecliu | 32 |
 | 61 |  [DPlayer](https://github.com/DIYgod/DPlayer) | :lollipop: Wow, such a lovely HTML5 danmaku video player | DIYgod | 15037 |
 | 62 |  [Valetudo](https://github.com/Hypfer/Valetudo) | Cloud replacement for vacuum robots enabling local-only operation | Hypfer | 5951 |
@@ -787,7 +787,7 @@
 | 105 |  [wechat_applet](https://github.com/Run2948/wechat_applet) | Open-Shop小程序商城，包括：分销（支持三级）、团购（拼多多模式）、秒杀、优惠券、等功能，前后端全部开源。做全网最开源、最稳定、功能做强大的开源小程序商城。 | Run2948 | 497 |
 | 106 |  [CRMEB_WeChatMiniProgram](https://github.com/crmeb/CRMEB_WeChatMiniProgram) | CRMEBv2.6以客户管理为中心+电商营销系统，微信小程序商城，带分销、秒杀、积分、优惠券等功能 | crmeb | 187 |
 | 107 |  [istio-lab](https://github.com/mgxian/istio-lab) | 《Istio 入门与实战》官方配套实验代码库 | mgxian | 92 |
-| 108 |  [kuboard-press](https://github.com/eip-work/kuboard-press) | Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 | eip-work | 21114 |
+| 108 |  [kuboard-press](https://github.com/eip-work/kuboard-press) | Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 | eip-work | 21113 |
 | 109 |  [docker](https://github.com/Thyiad/docker) |  | Thyiad | 13 |
 | 110 |  [pomelo](https://github.com/NetEase/pomelo) | A fast,scalable,distributed game server framework for Node.js. | NetEase | 11856 |
 | 111 |  [his-biz-suite](https://github.com/doublechaintech/his-biz-suite) | 用于演示智能化开发的系统，一个医院的排班系统，管理医院的科室，收费条目，医生和医生预约，本演示运行于南大通用GBase 8s v8.7之上。 | doublechaintech | 139 |
@@ -896,7 +896,7 @@
 | 1 |  [istore](https://github.com/linkease/istore) | 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT | linkease | 1167 |
 | 2 |  [openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) |  | xiaorouji | 6422 |
 | 3 |  [nebula](https://github.com/threathunterX/nebula) | &#34;星云&#34;业务风控系统，主工程 | threathunterX | 1057 |
-| 4 |  [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway and AI Gateway. | Kong | 37516 |
+| 4 |  [kong](https://github.com/Kong/kong) | 🦍 The Cloud-Native API Gateway and AI Gateway. | Kong | 37517 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -938,7 +938,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [IPTV-URL](https://github.com/Ftindy/IPTV-URL) | IPTV Remote Sub-Url | Ftindy | 429 |
 | 2 |  [reqable-app](https://github.com/reqable/reqable-app) | Reqable issue track repo | reqable | 2150 |
-| 3 |  [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 1c7 | 33199 |
+| 3 |  [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | 1c7 | 33202 |
 | 4 |  [RawChat](https://github.com/RawChat/RawChat) |  | RawChat | 1079 |
 | 5 |  [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) | ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。 | PlexPt | 50279 |
 | 6 |  [Public-bing-chatgpt-proxy](https://github.com/Nothingness-Void/Public-bing-chatgpt-proxy) | 公用的bing/chatgpt接入点 | Nothingness-Void | 121 |
@@ -946,7 +946,7 @@
 | 8 |  [lightgbm_BiLSTM](https://github.com/ffRunKey/lightgbm_BiLSTM) | A Study on Stock Price Prediction and Quantitative Strategy - Based on Deep Learning 『深層学習に基づく株価予測とクオンツ戦略に関する研究』基于深度学习的股票价格预测和量化策略研究 | ffRunKey | 10 |
 | 9 |  [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) | SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 | ACL4SSR | 2476 |
 | 10 |  [talib-document](https://github.com/HuaRongSAO/talib-document) | talib学习 talib中文翻译 talib中文文档 | HuaRongSAO | 1590 |
-| 11 |  [cursor](https://github.com/getcursor/cursor) | The AI-powered code editor | getcursor | 20106 |
+| 11 |  [cursor](https://github.com/getcursor/cursor) | The AI-powered code editor | getcursor | 20107 |
 | 12 |  [carrot](https://github.com/xx025/carrot) | Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点 | xx025 | 16475 |
 | 13 |  [box](https://github.com/ju0632/box) |  | ju0632 | 5 |
 | 14 |  [WeBank-all-Project](https://github.com/WeBankFinTech/WeBank-all-Project) | All the project addresses participated and established by WeBank are collected.汇集了微众银行参与和建立的所有项目地址。 | WeBankFinTech | 192 |
@@ -989,7 +989,7 @@
 | 51 |  [XUAN](https://github.com/peng-zhihui/XUAN) |  | peng-zhihui | 5356 |
 | 52 |  [devNotes](https://github.com/vickyi/devNotes) | my develop notes | vickyi | 3 |
 | 53 |  [dpkb](https://github.com/huangfox/dpkb) | 大数据相关内容汇总，包括分布式存储引擎、分布式计算引擎、数仓建设等。关键词：Hadoop、HBase、ES、Kudu、Hive、Presto、Spark、Flink、Kylin、ClickHouse | huangfox | 204 |
-| 54 |  [algorithm-base](https://github.com/chefyuan/algorithm-base) | 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com | chefyuan | 10587 |
+| 54 |  [algorithm-base](https://github.com/chefyuan/algorithm-base) | 一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com | chefyuan | 10586 |
 | 55 |  [update_miui_ota](https://github.com/mooseIre/update_miui_ota) |  | mooseIre | 2132 |
 | 56 |  [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) | 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria. | Loyalsoldier | 13658 |
 | 57 |  [TheKingOfBigData](https://github.com/BigDataScholar/TheKingOfBigData) | 🚀🚀🚀优质的历史文章，大数据高频考点，Java一线大厂知识考点，更有精美简历模板，简历指导手册和上百本技术书籍，最重要的就是被全网下载上千次的我自己花精力去画的大数据生态圈，Kafka，Spark，Scala的思维导图...这是一个你在大数据学习路上不能错过的宝藏项目！ | BigDataScholar | 675 |
@@ -1010,7 +1010,7 @@
 | 72 |  [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) | 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐 | selierlin | 9200 |
 | 73 |  [PandaOCR](https://github.com/miaomiaosoft/PandaOCR) | PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码 | miaomiaosoft | 5120 |
 | 74 |  [IDEA-agent](https://github.com/cloudlang/IDEA-agent) | JetBrains-IDEA-agent | cloudlang | 170 |
-| 75 |  [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 | freefq | 36372 |
+| 75 |  [free](https://github.com/freefq/free) | 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 | freefq | 36373 |
 | 76 |  [Project-Quantum](https://github.com/peng-zhihui/Project-Quantum) | 超迷你模块化卡片电脑计划 | peng-zhihui | 3083 |
 | 77 |  [privacy](https://github.com/kallydev/privacy) | 个人隐私泄露检测工具。 | kallydev | 999 |
 | 78 |  [ds-yibasuo](https://github.com/edwardhuanghz/ds-yibasuo) | Apache DolphinScheduler 安装 升级 调参 运维 一把梭！ | edwardhuanghz | 9 |
@@ -1021,7 +1021,7 @@
 | 83 |  [weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | ruanyf | 41470 |
 | 84 |  [md](https://github.com/johngolt/md) |  | johngolt | 3 |
 | 85 |  [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) | A topic-centric list of HQ open datasets. | awesomedata | 58422 |
-| 86 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 300646 |
+| 86 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 300650 |
 | 87 |  [awesome-bigdata](https://github.com/newTendermint/awesome-bigdata) | A curated list of awesome big data frameworks, ressources and other awesomeness. | newTendermint | 12800 |
 | 88 |  [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning | EthicalML | 15961 |
 | 89 |  [TobudOS](https://github.com/OpenAtomFoundation/TobudOS) | 开放原子开源基金会孵化的物联网操作系统，捐赠前为腾讯物联网终端操作系统TencentOS Tiny | OpenAtomFoundation | 5966 |
@@ -1051,7 +1051,7 @@
 | 113 |  [architect-awesome](https://github.com/xingshaocheng/architect-awesome) | 后端架构师技术图谱 | xingshaocheng | 59245 |
 | 114 |  [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) | 2021年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT | 0voice | 10909 |
 | 115 |  [Blog-Makee.io](https://github.com/ArcherHuang/Blog-Makee.io) |  | ArcherHuang | 22 |
-| 116 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 148756 |
+| 116 |  [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) | Master the command line, in one page | jlevy | 148757 |
 | 117 |  [download](https://github.com/getlantern/download) | Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 proxy vpn circumvention gfw | getlantern | 16815 |
 | 118 |  [dataset](https://github.com/cwfid/dataset) | Crop/Weed Field Image Dataset | cwfid | 128 |
 | 119 |  [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) | 微信小程序开发资源汇总 :100: | justjavac | 44181 |
@@ -1123,13 +1123,13 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [QChatGPT](https://github.com/RockChinQ/QChatGPT) | 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 \| 支持 ChatGPT、Claude、Gemini Pro、Moonshot（月之暗面 ）、gpt4free、One API 的 QQ / QQ频道 / OneBot 机器人平台 | RockChinQ | 3752 |
 | 2 |  [Mooc_Downloader](https://github.com/PyJun/Mooc_Downloader) | 学无止下载器，慕课下载器，Mooc网课下载，慕课网，中国大学，网易云课堂，有道精品课，有道领世，腾讯课堂，B站课堂，中公网校，新东方，高途，途途，学浪，抖音课堂，小鹅通，千聊，兴趣岛，超星学习通，学银在线，智慧职教，智慧树，学堂在线，爱课程；支持视频课件同时下载 | PyJun | 4214 |
-| 3 |  [grok-1](https://github.com/xai-org/grok-1) | Grok open release | xai-org | 47963 |
+| 3 |  [grok-1](https://github.com/xai-org/grok-1) | Grok open release | xai-org | 47964 |
 | 4 |  [curl_cffi](https://github.com/yifeikong/curl_cffi) | Python binding for curl-impersonate via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints. | yifeikong | 1359 |
 | 5 |  [FinTech](https://github.com/nsrlive/FinTech) | Python技术分析与量化交易学习笔记 | nsrlive | 11 |
 | 6 |  [FinRL-Meta](https://github.com/AI4Finance-Foundation/FinRL-Meta) | FinRL­-Meta: Dynamic datasets and market environments for FinRL. | AI4Finance-Foundation | 1119 |
 | 7 |  [mouserSpider](https://github.com/gauthierbo/mouserSpider) | smallSpider | gauthierbo | 1 |
 | 8 |  [mouser-api](https://github.com/sparkmicro/mouser-api) | Mouser Python API | sparkmicro | 26 |
-| 9 |  [pybroker](https://github.com/edtechre/pybroker) | Algorithmic Trading in Python with Machine Learning | edtechre | 1603 |
+| 9 |  [pybroker](https://github.com/edtechre/pybroker) | Algorithmic Trading in Python with Machine Learning | edtechre | 1604 |
 | 10 |  [Yi](https://github.com/01-ai/Yi) | A series of large language models trained from scratch by developers @01-ai | 01-ai | 7135 |
 | 11 |  [qstock](https://github.com/tkfy920/qstock) | qstock由“Python金融量化”公众号开发，试图打造成个人量化投研分析包，目前包括数据获取（data）、可视化(plot)、选股(stock)和量化回测（策略backtest）模块。 qstock将为用户提供简洁的数据接口和规整化后的金融市场数据。可视化模块为用户提供基于web的交互图形的简单接口；  选股模块提供了同花顺的选股数据和自定义选股，包括RPS、MM趋势、财务指标、资金流模型等；  回测模块为大家提供向量化（基于pandas）和基于事件驱动的基本框架和模型。 关注“Python金融量化“微信公众号，获取更多应用信息。 | tkfy920 | 740 |
 | 12 |  [pandora](https://github.com/zhile-io/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT client that lets you breathe freely. | zhile-io | 5454 |
@@ -1157,13 +1157,13 @@
 | 34 |  [MyTT](https://github.com/mpquant/MyTT) | MyTT将通达信,同花顺,文华麦语言等指标公式,最简移植到Python中,核心库单个文件，仅百行代码,十几个核心函数，神奇的实现所有常见技术指标算法（不依赖talib库）的纯python实现和转换通达信MACD,RSI,BOLL,ATR,KDJ,CCI,PSY等公式,全部基于pandas函数计算方法封装，简洁且高性能，能非常方便的应用在股票指标公式,股市期货量化框架分析,自动程序化交易,数字货币量化等领域,它是您最精练的股市量化工具。Python library with most stock market indicators. | mpquant | 1575 |
 | 35 |  [aktools](https://github.com/akfamily/aktools) | AKTools is an elegant and simple HTTP API library for AKShare, built for AKSharers! | akfamily | 414 |
 | 36 |  [histdata.com-tools](https://github.com/dmidlo/histdata.com-tools) | Multi-threaded/Multi-Process Downloader for Currency Exchange Rates from Histdata.com | dmidlo | 11 |
-| 37 |  [yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance&#39;s API | ranaroussi | 11842 |
+| 37 |  [yfinance](https://github.com/ranaroussi/yfinance) | Download market data from Yahoo! Finance&#39;s API | ranaroussi | 11844 |
 | 38 |  [Bard](https://github.com/acheong08/Bard) | Python SDK/API for reverse engineered Google Bard | acheong08 | 1434 |
 | 39 |  [pytdx](https://github.com/rainx/pytdx) | Python tdx数据接口 | rainx | 1297 |
 | 40 |  [jqfactor_analyzer](https://github.com/JoinQuant/jqfactor_analyzer) | 聚宽单因子分析工具 | JoinQuant | 466 |
 | 41 |  [Data-Copilot](https://github.com/zwq2018/Data-Copilot) | Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow | zwq2018 | 1252 |
 | 42 |  [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 | chatanywhere | 16028 |
-| 43 |  [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository \| various collection of powerful language models | xtekky | 57428 |
+| 43 |  [gpt4free](https://github.com/xtekky/gpt4free) | The official gpt4free repository \| various collection of powerful language models | xtekky | 57430 |
 | 44 |  [freegpt-webui](https://github.com/ramonvc/freegpt-webui) | GPT 3.5/4 with a Chat Web UI. No API key required. | ramonvc | 5702 |
 | 45 |  [pandora](https://github.com/pengzhile/pandora) | 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. | pengzhile | 20799 |
 | 46 |  [jqdatasdk](https://github.com/JoinQuant/jqdatasdk) | 简单易用的量化金融数据包(easy utility for getting financial market data of China) | JoinQuant | 851 |
@@ -1189,7 +1189,7 @@
 | 66 |  [akshare](https://github.com/akfamily/akshare) | AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库 | akfamily | 8371 |
 | 67 |  [chanlun-pro](https://github.com/yijixiuxin/chanlun-pro) | 基于缠中说禅所讲缠论理论，以便量化分析市场行情的工具 | yijixiuxin | 305 |
 | 68 |  [jina](https://github.com/jina-ai/jina) | ☁️ Build multimodal AI applications with cloud-native stack | jina-ai | 20041 |
-| 69 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 68661 |
+| 69 |  [core](https://github.com/home-assistant/core) | :house_with_garden: Open source home automation that puts local control and privacy first. | home-assistant | 68664 |
 | 70 |  [easytrader](https://github.com/liudongming/easytrader) | 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件 | liudongming | 3 |
 | 71 |  [CodeGen](https://github.com/salesforce/CodeGen) | CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex. | salesforce | 4764 |
 | 72 |  [fauxpilot](https://github.com/fauxpilot/fauxpilot) | FauxPilot - an open-source alternative to GitHub Copilot server | fauxpilot | 14247 |
@@ -1214,7 +1214,7 @@
 | 91 |  [DouZero_For_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu) | 基于DouZero定制AI实战欢乐斗地主 | tianqiraf | 1925 |
 | 92 |  [insightface](https://github.com/deepinsight/insightface) | State-of-the-art 2D and 3D Face Analysis Project | deepinsight | 21279 |
 | 93 |  [JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount) | 学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案 | yqchilde | 1240 |
-| 94 |  [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library (Fork) | python-pillow | 11700 |
+| 94 |  [Pillow](https://github.com/python-pillow/Pillow) | Python Imaging Library (Fork) | python-pillow | 11701 |
 | 95 |  [ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition) | A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统 | nl8590687 | 7475 |
 | 96 |  [moviepy](https://github.com/Zulko/moviepy) | Video editing with Python | Zulko | 11789 |
 | 97 |  [weiboSpider](https://github.com/dataabc/weiboSpider) | 新浪微博爬虫，用python爬取新浪微博数据 | dataabc | 7937 |
@@ -1244,7 +1244,7 @@
 | 121 |  [nltk](https://github.com/nltk/nltk) | NLTK Source | nltk | 13032 |
 | 122 |  [NLP-progress](https://github.com/sebastianruder/NLP-progress) | Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. | sebastianruder | 22309 |
 | 123 |  [xonsh](https://github.com/xonsh/xonsh) | :shell: Python-powered, cross-platform, Unix-gazing shell. | xonsh | 8006 |
-| 124 |  [streamlit](https://github.com/streamlit/streamlit) | Streamlit — A faster way to build and share data apps. | streamlit | 31694 |
+| 124 |  [streamlit](https://github.com/streamlit/streamlit) | Streamlit — A faster way to build and share data apps. | streamlit | 31695 |
 | 125 |  [Zappa](https://github.com/Miserlou/Zappa) | Serverless Python | Miserlou | 11893 |
 | 126 |  [doccano](https://github.com/doccano/doccano) | Open source annotation tool for machine learning practitioners. | doccano | 8991 |
 | 127 |  [ltp](https://github.com/HIT-SCIR/ltp) | Language Technology Platform | HIT-SCIR | 4798 |
@@ -1312,7 +1312,7 @@
 | 189 |  [ParlAI](https://github.com/facebookresearch/ParlAI) | A framework for training and evaluating AI models on a variety of openly available dialogue datasets. | facebookresearch | 10427 |
 | 190 |  [featuretools](https://github.com/alteryx/featuretools) | An open source python library for automated feature engineering | alteryx | 7022 |
 | 191 |  [mlflow](https://github.com/mlflow/mlflow) | Open source platform for the machine learning lifecycle | mlflow | 17280 |
-| 192 |  [ipex-llm](https://github.com/intel-analytics/ipex-llm) | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, etc. | intel-analytics | 5951 |
+| 192 |  [ipex-llm](https://github.com/intel-analytics/ipex-llm) | Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, etc. | intel-analytics | 5950 |
 | 193 |  [PaddleX](https://github.com/PaddlePaddle/PaddleX) | PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具） | PaddlePaddle | 4566 |
 | 194 |  [ray](https://github.com/ray-project/ray) | Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. | ray-project | 31115 |
 | 195 |  [AIAlpha](https://github.com/VivekPa/AIAlpha) | Use unsupervised and supervised learning to predict stocks | VivekPa | 1623 |
@@ -1467,7 +1467,7 @@
 | 344 |  [TextInfoExp](https://github.com/Roshanson/TextInfoExp) | 自然语言处理实验（sougou数据集），TF-IDF，文本分类、聚类、词向量、情感识别、关系抽取等 | Roshanson | 1665 |
 | 345 |  [weibospider](https://github.com/SpiderClub/weibospider) | :zap: A distributed crawler for weibo, building with celery and requests. | SpiderClub | 4804 |
 | 346 |  [zhihu-crawler-people](https://github.com/elliotxx/zhihu-crawler-people) | A simple distributed crawler for zhihu &amp;&amp; data analysis | elliotxx | 188 |
-| 347 |  [jieba](https://github.com/fxsjy/jieba) | 结巴中文分词 | fxsjy | 32425 |
+| 347 |  [jieba](https://github.com/fxsjy/jieba) | 结巴中文分词 | fxsjy | 32426 |
 | 348 |  [Spider_index](https://github.com/DarkSand/Spider_index) | 爬取百度指数和阿里指数，采用selenium，存入hbase，验证码自动识别，多线程控制 | DarkSand | 32 |
 | 349 |  [Baiduindex](https://github.com/TTyb/Baiduindex) | 百度指数-图像识别抓取，逻辑不难，代码写得渣渣 | TTyb | 171 |
 | 350 |  [baidu_tensor](https://github.com/ethaniz/baidu_tensor) | 百度指数图片tensorflow识别 | ethaniz | 1 |
@@ -1515,7 +1515,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [gitlabhq](https://github.com/gitlabhq/gitlabhq) | GitLab CE Mirror \| Please open new issues in our issue tracker on GitLab.com | gitlabhq | 23596 |
-| 2 |  [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | huginn | 41552 |
+| 2 |  [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | huginn | 41553 |
 | 3 |  [danmu](https://github.com/hylarucoder/danmu) | douyutv弹幕助手 | hylarucoder | 68 |
 
 **[⬆ Back to Index](#-contents)**
@@ -1523,7 +1523,7 @@
 ## Rust
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | lencx | 46930 |
+| 1 |  [ChatGPT](https://github.com/lencx/ChatGPT) | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | lencx | 46931 |
 | 2 |  [influxdb](https://github.com/influxdata/influxdb) | Scalable datastore for metrics, events, and real-time analytics | influxdata | 27765 |
 | 3 |  [fuso](https://github.com/editso/fuso) | 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption) | editso | 1729 |
 | 4 |  [aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) | 阿里云盘 WebDAV 服务 | messense | 9438 |
@@ -1581,7 +1581,7 @@
 | 6 |  [leetcode-master](https://github.com/youngyangyang04/leetcode-master) | 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 | youngyangyang04 | 47330 |
 | 7 |  [docker-vernemq](https://github.com/vernemq/docker-vernemq) | VerneMQ Docker image - Starts the VerneMQ MQTT broker and listens on 1883 and 8080 (for websockets). | vernemq | 175 |
 | 8 |  [emqx-rel](https://github.com/emqx/emqx-rel) | Release Project for EMQX Broker prior to 4.3. Newer releases are built here: https://github.com/emqx/emqx | emqx | 189 |
-| 9 |  [uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android | yc9559 | 3143 |
+| 9 |  [uperf](https://github.com/yc9559/uperf) | Userspace performance controller for android | yc9559 | 3144 |
 | 10 |  [CodeGuide](https://github.com/fuzhengwei/CodeGuide) | :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！ | fuzhengwei | 10732 |
 | 11 |  [luci-app-pushbot](https://github.com/zzsj0928/luci-app-pushbot) | PushBot running on openwrt | zzsj0928 | 339 |
 | 12 |  [FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) |  | BtbN | 6640 |
@@ -1659,9 +1659,9 @@
 | 2 |  [GKD_subscription](https://github.com/Adpro-Team/GKD_subscription) | 由 Adpro-Team 维护的 GKD 订阅规则 | Adpro-Team | 909 |
 | 3 |  [GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 | AIsouler | 554 |
 | 4 |  [subscription](https://github.com/gkd-kit/subscription) | GKD 默认订阅规则 | gkd-kit | 2437 |
-| 5 |  [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development | danny-avila | 10864 |
+| 5 |  [LibreChat](https://github.com/danny-avila/LibreChat) | Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development | danny-avila | 10866 |
 | 6 |  [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu) | Clash Nyanpasu～(∠・ω&amp;lt; )⌒☆​ | LibNyanpasu | 5962 |
-| 7 |  [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) | clash-verge-rev | 17917 |
+| 7 |  [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux) | clash-verge-rev | 17918 |
 | 8 |  [clash-verge](https://github.com/zzzgydi/clash-verge) | A Clash GUI based on tauri. Supports Windows, macOS and Linux. | zzzgydi | 20140 |
 | 9 |  [bingo](https://github.com/weaigc/bingo) | Bingo，一个让你呼吸顺畅 New Bing。 | weaigc | 2226 |
 | 10 |  [dukascopy-node](https://github.com/Leo4815162342/dukascopy-node) | ✨ Download historical price tick data for Crypto, Stocks, ETFs, CFDs, Forex via CLI and Node.js ✨ | Leo4815162342 | 282 |
@@ -1669,13 +1669,13 @@
 | 12 |  [lz-string](https://github.com/pieroxy/lz-string) | LZ-based compression algorithm for JavaScript | pieroxy | 3895 |
 | 13 |  [chatbox](https://github.com/Bin-Huang/chatbox) | Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux | Bin-Huang | 18503 |
 | 14 |  [MusicFree](https://github.com/maotoumao/MusicFree) | 插件化、定制化、无广告的免费音乐播放器 | maotoumao | 5853 |
-| 15 |  [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 | ChatGPTNextWeb | 68152 |
+| 15 |  [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) | A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。 | ChatGPTNextWeb | 68153 |
 | 16 |  [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) | AI chat for every model. | mckaywrigley | 26211 |
 | 17 |  [playwright](https://github.com/microsoft/playwright) | Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. | microsoft | 61756 |
 | 18 |  [docker-YApi](https://github.com/fjc0k/docker-YApi) | 接口管理平台 YApi 的 Docker 镜像。 | fjc0k | 1059 |
-| 19 |  [siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | siyuan-note | 15897 |
+| 19 |  [siyuan](https://github.com/siyuan-note/siyuan) | A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang. | siyuan-note | 15898 |
 | 20 |  [joplin](https://github.com/laurent22/joplin) | Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS. | laurent22 | 42935 |
-| 21 |  [homebridge](https://github.com/homebridge/homebridge) | HomeKit support for the impatient. | homebridge | 23337 |
+| 21 |  [homebridge](https://github.com/homebridge/homebridge) | HomeKit support for the impatient. | homebridge | 23336 |
 | 22 |  [ejyy](https://github.com/chowa/ejyy) | 「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。 | chowa | 1023 |
 | 23 |  [MQTTX](https://github.com/emqx/MQTTX) | A Powerful and All-in-One MQTT 5.0 client toolbox for Desktop, CLI and WebSocket. | emqx | 3478 |
 | 24 |  [lulaoshi.info](https://github.com/luweizheng/lulaoshi.info) | 数据和计算科学知识库，分享机器学习系统、数据管理、数据科学原创内容。 | luweizheng | 50 |
