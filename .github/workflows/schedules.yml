@@ -23,5 +23,5 @@ jobs:
       
       - name: 'Update Repo'
         env:
-          GITHUB_TOKEN: '${{ secrets.MY_PERSONAL_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.MY_PERSONAL_TOKEN }}'  # 自定义的秘钥名 MY_PERSONAL_TOKEN，需要生成github秘钥然后添加到settings中
         run: 'stargazed --username "dick318" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
