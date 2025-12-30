@@ -4,26 +4,39 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # 保持你原来的每小时运行
 jobs:
-  build:
-    name: 'starred update'
+  awesome-stars:
+    name: update awesome-stars
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write  # 需要写入权限来更新仓库
     steps:
-      - name: 'Checkout'
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       
-      - name: 'Set up Python'
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
       
-      - name: 'Install starred'
-        run: pip install starred
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install starred
       
-      - name: 'Update README'
+      - name: Get repository name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      
+      - name: Update repo category by language
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username "dick318" --token ${GITHUB_TOKEN} --repository "awesome-stars" --sort
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'stargazed update by GitHub Actions Workflow'
+      
+      - name: Update repo category by topic
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          USERNAME: ${{ github.repository_owner }}
+        run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'stargazed update by GitHub Actions Workflow (topic)' --topic --topic_limit 500 --filename topics.md
