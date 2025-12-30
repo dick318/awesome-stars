@@ -4,24 +4,26 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-  - cron: 0 * * * *
+    - cron: '0 * * * *'
 jobs:
   build:
-    name: 'stargazed update'
+    name: 'starred update'
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: 'Use GitHub Actions'
-        uses: actions/checkout@v4  # 升级到 v4
+      - name: 'Checkout'
+        uses: actions/checkout@v4
       
-      - name: 'Use Node.js 20.x'
-        uses: actions/setup-node@v4  # 升级到 v4
+      - name: 'Set up Python'
+        uses: actions/setup-python@v5
         with:
-          node-version: 20.x  # 使用 Node.js 20
+          python-version: '3.11'
       
-      - name: 'Install Package'
-        run: 'npm install --global stargazed'
+      - name: 'Install starred'
+        run: pip install starred
       
-      - name: 'Update Repo'
+      - name: 'Update README'
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username "dick318" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: starred --username "dick318" --token ${GITHUB_TOKEN} --repository "awesome-stars" --sort
