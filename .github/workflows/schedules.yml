@@ -1,40 +1,27 @@
 # https://github.com/abhijithvijayan/awesome-stars
 # https://github.com/maguowei/awesome-stars
-
 name: update awesome-stars
-
 on:
   workflow_dispatch:
   schedule:
-    # 每天运行一次即可，每小时运行(0 * * * *)容易触发 GitHub 的 API 速率限制
-    - cron: 0 * * * *
-
-# 关键修复 1: 显式声明权限，允许 Workflow 修改仓库内容
-permissions:
-  contents: write
-
+  - cron: 0 * * * *
 jobs:
   build:
     name: 'stargazed update'
     runs-on: ubuntu-latest
     steps:
       - name: 'Use GitHub Actions'
-        # 建议升级到 v4
-        uses: actions/checkout@v4
-
+        uses: actions/checkout@v4  # 升级到 v4
+      
       - name: 'Use Node.js 20.x'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v4  # 升级到 v4
         with:
-          # 关键修复 2: 升级 Node 版本到目前的 LTS (20)
-          node-version: 20
-
-      - name: 'Install Package'  
-        # 尝试安装 stargazed。注意：如果 stargazed 作者弃坑太久不支持 Node 20，这里可能报错
+          node-version: 20.x  # 使用 Node.js 20
+      
+      - name: 'Install Package'
         run: 'npm install --global stargazed'
-
+      
       - name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        # 注意：这里不需要手动指定 token 参数，stargazed 应该能自动读取环境变量
-        # 也就是 --token ${GITHUB_TOKEN} 可以根据工具文档调整，但原样保留通常也没问题
-        run: 'stargazed --username "dick318" --token "${GITHUB_TOKEN}" --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'stargazed --username "dick318" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
