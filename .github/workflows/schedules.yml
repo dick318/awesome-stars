@@ -1,39 +1,38 @@
 # https://github.com/abhijithvijayan/awesome-stars
 # https://github.com/maguowei/awesome-stars
-name: Update Awesome Stars
-
+name: update awesome-stars
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # 每小时执行（保持你原来的）
-  workflow_dispatch:  # 允许手动触发
-
+  - cron: 0 * * * *
 jobs:
-  update-stars:
+  awesome-stars:
+    name: update awesome-stars
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install starred
+    - name: get repository name
+      run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+    - name: update repo category by language
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by language update by github actions cron, created by starred'
+    - name: update repo category by topic
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        USERNAME: ${{ github.repository_owner }}
+      run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install starred
-        run: pip install starred
-
-      - name: Update stars by language
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username ${{ github.repository_owner }} --token ${GITHUB_TOKEN} --sort --filename README.md
-
-      - name: Update stars by topic
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: starred --username ${{ github.repository_owner }} --token ${GITHUB_TOKEN} --sort --topic --topic_limit 500 --filename topics.md
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "stargazed update by GitHub Actions Workflow"
-          file_pattern: "README.md topics.md"
